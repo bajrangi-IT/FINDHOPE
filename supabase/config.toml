@@ -1,0 +1,10 @@
+project_id = "kwqvjftxlrgvhakytbco"
+
+[functions.notify-case-update]
+verify_jwt = false
+
+[functions.process-cctv-image]
+verify_jwt = false
+
+[functions.match-photo]
+verify_jwt = false
